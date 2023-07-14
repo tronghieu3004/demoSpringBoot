@@ -1,10 +1,10 @@
-package com.letronghieu.jpacrudapi;
+package com.utm.jpacrud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JpacrudapiApplicationTests {
+class JpacrudApplicationTests {
 
 	@Test
 	void contextLoads() {

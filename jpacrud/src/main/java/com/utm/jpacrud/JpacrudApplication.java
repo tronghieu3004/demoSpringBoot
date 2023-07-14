@@ -1,13 +1,13 @@
-package com.letronghieu.jpacrudapi;
+package com.utm.jpacrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpacrudapiApplication {
+public class JpacrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JpacrudapiApplication.class, args);
+		SpringApplication.run(JpacrudApplication.class, args);
 	}
 
 }
