@@ -11,6 +11,8 @@ import lombok.Setter;
 @AllArgsConstructor
 public class GenderDTO {
     private String department;
-    private int femaleCount;
-    private int maleCount;
+    private Long femaleCount;
+    private Long maleCount;
+
+
 }
